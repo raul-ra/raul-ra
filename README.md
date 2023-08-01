@@ -38,7 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" width="100px" alt="Visual Studio Code">
 </p>
 
-### Metodologías de trabajo.
 
 ## Proyectos 🚀
 
