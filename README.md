@@ -37,7 +37,7 @@
 
 ### Editor de código:
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" width="100px" alt="Visual Studio Code">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" width="200px" alt="Visual Studio Code">
 </p>
 
 
@@ -96,7 +96,7 @@ ________________________________________________________________________________
 
 ### Code Editor:
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" width="100px" alt="Visual Studio Code">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" width="200px" alt="Visual Studio Code">
 </p>
 
 ## Projects 🚀
