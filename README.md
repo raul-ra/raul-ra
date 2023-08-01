@@ -91,14 +91,13 @@ ________________________________________________________________________________
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="100px" alt="GitHub">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="100px" alt="Git">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original-wordmark.svg"  width="100px" alt="Sourcetree">
 </p>
 
 ### Code Editor:
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" width="100px" alt="Visual Studio Code">
 </p>
-
-### Work Methodologies.
 
 ## Projects 🚀
 
