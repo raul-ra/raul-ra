@@ -39,6 +39,13 @@
           
 </p>
 
+### Testing:
+<p align="center">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" width="100px" alt="Postman">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="100px" alt="Jest"/>
+
+</p>
+
 ### Editor de código:
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" width="200px" alt="Visual Studio Code">
@@ -99,6 +106,13 @@ ________________________________________________________________________________
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="100px" alt="GitHub">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="100px" alt="Git">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original-wordmark.svg"  width="100px" alt="Sourcetree">
+</p>
+
+### Testing:
+<p align="center">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" width="100px" alt="Postman">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="100px" alt="Jest"/>
+
 </p>
 
 ### Code Editor:
