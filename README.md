@@ -41,7 +41,7 @@
 
 ### Testing:
 <p align="center">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" width="100px" alt="Postman">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" width="300px" alt="Postman">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="100px" alt="Jest"/>
 
 </p>
