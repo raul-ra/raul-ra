@@ -1,6 +1,6 @@
 # ¡Hola a tod@s! 👋
 
-<img src="https://www.canva.com/design/DAFtTI3TaOc/9i34PWGneMte_c_xOgvWyA/view?utm_content=DAFtTI3TaOc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview">
+<img src="file:///C:/Users/Ra%C3%BAl%20Ra/Downloads/A%C3%B1adir%20un%20t%C3%ADtulo.svg">
 
 </>
 
