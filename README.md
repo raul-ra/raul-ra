@@ -1,8 +1,8 @@
 # ¡Hola a tod@s! 👋
 
-<img src="file:///C:/Users/Ra%C3%BAl%20Ra/Downloads/A%C3%B1adir%20un%20t%C3%ADtulo.svg">
+<img src="file:///C:/Users/Ra%C3%BAl%20Ra/Downloads/A%C3%B1adir%20un%20t%C3%ADtulo.svg" width=100% alt="Presentación">
 
-</>
+</p>
 
 ## ¡Bienvenid@s a mi Repositorio!
 
