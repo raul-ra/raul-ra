@@ -1,5 +1,9 @@
 # ¡Hola a tod@s! 👋
 
+<img src="https://www.canva.com/design/DAFtTI3TaOc/9i34PWGneMte_c_xOgvWyA/view?utm_content=DAFtTI3TaOc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview">
+
+</>
+
 ## ¡Bienvenid@s a mi Repositorio!
 
 💻 Soy Raúl, un estudiante de desarrollo Fullstack en Factoria F5 🚀 que decidió reciclarse para entrar en este frustrante, pero fascinante mundo del desarrollo web.
