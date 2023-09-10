@@ -1,6 +1,6 @@
 # ¡Hola a tod@s! 👋
 
-<img src="Portada perfil.png" alt="Presentación" width="768" heigth="480">
+<img src="Portada perfil.png" alt="Presentación" width="819" heigth="512">
 
 </p>
 
@@ -75,6 +75,10 @@ Además del desarrollo web, disfruto mucho de:
 ____________________________________________________________________________________________________________________________________________________________________________________
 
 # Hello everyone! 👋
+
+<img src="Portada perfil.png" alt="Presentación" width="819" heigth="512">
+
+</p>
 
 ## Welcome to my Repository!
 
