@@ -1,6 +1,6 @@
 # ¡Hola a tod@s! 👋
 
-<img src="Portada perfil.png" alt="Presentación">
+<img src="Portada perfil.png" alt="Presentación" width="768" heigth="480">
 
 </p>
 
