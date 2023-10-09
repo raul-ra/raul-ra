@@ -98,68 +98,61 @@ ________________________________________________________________________________
 
 ## Skills 🛠️
 
-### Frontend Development:
+UX/UI Design:
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="100px" alt="Figma">
+ </p>
+Frontend Development:
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="100px" alt="HTML"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="100px" alt="CSS">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="100px" alt="SASS">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="100px" alt="Bootstrap">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100px" alt="JavaScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="100px" alt="Typescritp">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="100px" alt="NPM">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="100px" alt="Yarn">>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="100px" alt="React">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="100px" alt="MUI">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="100px" alt="NodeJs">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="100px" alt="Figma">
-  
+  </p>
+Backend Development:
+<p align="center"> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="100px" alt="NodeJs">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="100px" alt="Typescript">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="100px" alt="NPM">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="100px" alt="Express">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" width="100px" alt="Sequelize">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="100px" alt="MySQL">   
 </p>
-
-### Methodologies and Project Management:
-
-  - Scrum.
-  - Agile.
-  - Kanban.
-  
+Methodologies and Project Management:
+Scrum.
+Agile.
+Kanban.
  <p align="center"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" width="100px" alt="Trello">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="100px" alt="Jira">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" width="100px" alt="Slack">
 </p>
-
-### Version Control and Collaboration:
+Version Control and Collaboration:
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="100px" alt="GitHub">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="100px" alt="Git">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original-wordmark.svg"  width="100px" alt="Sourcetree">
 </p>
-
-### Testing:
+Testing:
 <p align="center">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" width="100px" alt="Postman">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" width="300px" alt="Postman">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="100px" alt="Jest"/>
-
 </p>
-
-### Code Editor:
+Code Editor:
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" width="200px" alt="Visual Studio Code">
 </p>
+Projects 🚀
+Check out my projects in this repository.
 
-## Projects 🚀
+Interests
+Besides web development, I really enjoy:
 
-Take a look at my projects in this repository.
-
-## Interests 
-
-In addition to web development, I enjoy:
-
-- 🌍 Traveling around the world and exploring new horizons.
-- 🌿 Connecting with nature in any of its forms.
-- 📚 Reading to feel free.
-- 🎬 Enjoying a series or a good movie.
-
+🌍 Traveling the world and exploring new horizons.
+🌿 Connecting with nature in any of its forms.
+📚 Reading to feel free.
+🎬 Enjoying a series or a good movie.
 Thank you for visiting my repository!
-
-
-
