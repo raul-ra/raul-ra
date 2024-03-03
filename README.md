@@ -6,7 +6,7 @@
 
 ## ¡Bienvenid@s a mi Repositorio!
 
-💻 Soy Raúl, un Desarrollador Fullstack Jr 🚀 que decidió reciclarse para entrar en este frustrante, pero fascinante mundo del desarrollo web.
+💻 Soy Raúl, un Desarrollador Web 🚀 que decidió reciclarse para entrar en este frustrante, pero fascinante mundo del desarrollo web.
 
 ## Habilidades 🛠️
 
@@ -94,7 +94,7 @@ ________________________________________________________________________________
 
 ## Welcome to my Repository!
 
-💻 I'm Raúl, a Fullstack Developer Jr at Factoria F5 🚀 who decided to switch careers and enter this frustrating, yet fascinating world of web development.
+💻 I'm Raúl, a Web Developer 🚀 who decided to switch careers and enter this frustrating, yet fascinating world of web development.
 
 ## Skills 🛠️
 
